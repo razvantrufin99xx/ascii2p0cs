@@ -1,0 +1,8 @@
+
+public int4bit[] tableSelector; //4bits long
+public int5bit[,] tableswithchars; //5bits long 16 tables x 5bit long chars
+  
+
+
+
+
